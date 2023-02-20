@@ -5,7 +5,7 @@
 * Return: Always 0
 */
 int main()
- {
+{
 	char c;
 
 	/* print lowercase alphabet */
