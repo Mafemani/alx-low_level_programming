@@ -5,17 +5,15 @@
 *This program prints the lowercase alphabet in reverse, followed by a new line.
 *Only the putchar function is used.
 */
+
 int main(void) 
 {
 	char letter = 'z';
 
-	while (letter >= 'a')
-	{
+	while (letter >= 'a'){
 		putchar(letter);
 		letter--;
 	}
 	putchar('\n');
-
 	return 0;
-
 }
