@@ -4,6 +4,10 @@
 
 int main() 
 {
+	/**
+	 *Betty coding stile
+	 *It works
+	 */
 	int n;
 	srand(time(0));
 	n = rand() % RAND_MAX - RAND_MAX/2;
