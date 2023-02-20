@@ -4,7 +4,8 @@
 *ou might have to install the package libc6-dev-i386 on your Linux to test the -m32 gcc option
 */
 
-int main(void) {
+int main(void)
+{
 	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return 0;
 }
