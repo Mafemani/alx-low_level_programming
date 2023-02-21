@@ -25,6 +25,5 @@ int main(void)
 	write(STDOUT_FILENO, &c, 1);
 	c = '\n';
  	write(STDOUT_FILENO, &c, 1);
-
 	return (0);
 }
