@@ -21,7 +21,7 @@ int main(void)
 	write(STDOUT_FILENO, &c, 1);
 	c = 'a';
 	write(STDOUT_FILENO, &c, 1);
-	c = 'r\n';
+	c = 'r';
  	write(STDOUT_FILENO, &c, 1);
 	return (0);
 }
