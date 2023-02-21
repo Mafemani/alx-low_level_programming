@@ -1,5 +1,4 @@
 #include <unistd.h>
-
 /**
 * main - entry point of the program
 *
