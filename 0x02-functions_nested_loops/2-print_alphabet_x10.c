@@ -1,16 +1,10 @@
 #include <stdio.h>
 
 /**
-* main - entry point of the program
-*
-* Return: Always 0 (Success)
+* print_alphabet_x10 - Prints the alphabet in lowercase 10 times, followed by a new line
 */
 void print_alphabet_x10(void)
 {
-	/**
-	* main - entry point of the program
-	* Return: Always 0 (Success)
-	*/
 	char letter;
 	int i;
 
