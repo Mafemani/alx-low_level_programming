@@ -7,6 +7,10 @@
 */
 void print_alphabet_x10(void)
 {
+	/**
+	* main - entry point of the program
+	* Return: Always 0 (Success)
+	*/
 	char letter;
 	int i;
 
